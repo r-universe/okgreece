@@ -8,11 +8,6 @@
 	url = https://github.com/okgreece/cluster.obeu
 	shallow = true
 	registered = true
-[submodule "DescriptiveStats.OBeu"]
-	path = DescriptiveStats.OBeu
-	url = https://github.com/okgreece/descriptivestats.obeu
-	shallow = true
-	registered = true
 [submodule "gginference"]
 	path = gginference
 	url = https://github.com/okgreece/gginference
