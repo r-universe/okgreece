@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "DescriptiveStats.OBeu",
+    "oncran": true
+  },
+  {
     "package": "gginference",
     "oncran": true
   },
