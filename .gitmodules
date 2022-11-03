@@ -23,8 +23,3 @@
 	url = https://github.com/okgreece/timeseries.obeu
 	shallow = true
 	registered = true
-[submodule "TrafficBDE"]
-	path = TrafficBDE
-	url = https://github.com/okgreece/trafficbde
-	shallow = true
-	registered = true

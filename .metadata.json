@@ -14,9 +14,5 @@
   {
     "package": "TimeSeries.OBeu",
     "oncran": true
-  },
-  {
-    "package": "TrafficBDE",
-    "oncran": true
   }
 ]
