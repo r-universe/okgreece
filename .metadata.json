@@ -1,6 +1,6 @@
 [
   {
-    "package": "Cluster.OBeu",
+    "package": "gginference",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "gginference",
+    "package": "Cluster.OBeu",
     "oncran": true
   },
   {
