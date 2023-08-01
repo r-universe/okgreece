@@ -8,12 +8,12 @@
 [submodule "DescriptiveStats.OBeu"]
 	path = DescriptiveStats.OBeu
 	url = https://github.com/okgreece/descriptivestats.obeu
-[submodule "gginference"]
-	path = gginference
-	url = https://github.com/okgreece/gginference
 [submodule "TimeSeries.OBeu"]
 	path = TimeSeries.OBeu
 	url = https://github.com/okgreece/timeseries.obeu
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/okgreece/trafficbde
+[submodule "gginference"]
+	path = gginference
+	url = https://github.com/okgreece/gginference
