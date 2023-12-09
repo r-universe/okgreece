@@ -8,9 +8,6 @@
 [submodule "DescriptiveStats.OBeu"]
 	path = DescriptiveStats.OBeu
 	url = https://github.com/okgreece/descriptivestats.obeu
-[submodule "TimeSeries.OBeu"]
-	path = TimeSeries.OBeu
-	url = https://github.com/okgreece/timeseries.obeu
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/okgreece/trafficbde
